@@ -24,4 +24,3 @@ dbcert-*
 _build/
 eval_sql_query.ml
 eval_sql_query.mli
-
